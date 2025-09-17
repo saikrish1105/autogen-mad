@@ -1,0 +1,4 @@
+ag2[openai]
+autogen-agentchat[llm,gemini]~=0.2
+autogen 
+
